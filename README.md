@@ -1,4 +1,4 @@
-# [Tabchi V2](https://telegram.me/LuaError)
+# [Tabchi V2](https://telegram.me/FAKEbots)
 
 * * *
 
@@ -49,7 +49,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 #کد نصب بوت
 cd $HOME
-git clone https://github.com/TeleSudo/TTabchi.git
+git clone https://github.com/greatfakeman/ttabchi.git
 cd TTabchi
 git clone --recursive https://github.com/janlou/tg.git
 cd tg
@@ -68,13 +68,3 @@ sudo killall tmux
 sudo killall telegram-cli
 sudo tmux new-session -s script "bash steady.sh -t"
 ```
-
-## 📍 باتشکر 📍
-[ITEAM](https://telegram.me/iTeam_ir)
-
-## 🇮🇷 تهیه شده توسط 🇮🇷
-[LuaError](https://telegram.me/LuaError)
-
-# [گروه حل مشکلات](https://t.me/joinchat/AAAAAEHcoexoX2IYNeu-Yg)
-
-# [سازنده](https://t.me/ThatsAlone)
