@@ -58,7 +58,8 @@ cd
 cd TTabchi
 chmod +x launch.sh
 ./launch.sh
-
+```
+-- cd $HOME && git clone https://github.com/greatfakeman/ttabchi.git && cd ttabchi && git clone --recursive https://github.com/janlou/tg.git && cd tg && ./configure && make && cd && cd ttabchi && chmod +x launch.sh && ./launch.sh
 ```
 
 ## 💢 دستورات اتولانچ 💢
